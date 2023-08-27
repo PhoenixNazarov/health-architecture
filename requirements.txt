@@ -1,0 +1,1 @@
+injectable~=3.4.7
